@@ -1,0 +1,20 @@
+{
+  "name": "digitalartworm",
+  "version": "1.0.0",
+  "description": "Digital Art Worm. Collective Art. A total remake for http://digitalartworm.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamandrewluca/digitalartworm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamandrewluca/digitalartworm/issues"
+  },
+  "homepage": "https://github.com/iamandrewluca/digitalartworm#readme"
+}
